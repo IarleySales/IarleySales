@@ -1,80 +1,73 @@
-# Olá, eu sou Iarley Gabriel 👋
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor em formação
-📚 Sempre aprendendo e criando novos projetos
+# Iarley Gabriel
+
+### Estudante de Análise e Desenvolvimento de Sistemas
+
+`Código • Projetos • Evolução`
+
+</div>
+
+---
 
 ## Sobre mim
 
-Sou estudante de ADS e estou construindo minha experiência em programação através de projetos pessoais, atividades acadêmicas e exercícios práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, explorando programação e desenvolvimento web através de projetos práticos.
 
-Atualmente estou estudando desenvolvimento web, lógica de programação e diferentes linguagens para ampliar minha base na área de tecnologia.
+Gosto de aprender novas tecnologias colocando o conhecimento em prática e transformando ideias em projetos.
 
-## Tecnologias e linguagens
+---
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-
-## Ferramentas
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-
-## 📊 GitHub Stats
+## Tecnologias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IarleySales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarleySales&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,tailwind,git,github,vscode" />
 
 </div>
 
-## 🚀 Projetos
+---
 
-### 🍔 Cardápio
+## Projetos em destaque
 
-Sistema simples de pedidos desenvolvido com HTML, CSS e JavaScript.
+### Top Dream Car
 
-### 🛒 Tech Store
+Site desenvolvido com foco em **carros esportivos e de alto desempenho**, trabalhando estrutura, estilização e apresentação visual.
 
-Projeto desenvolvido para praticar desenvolvimento web e publicação utilizando GitHub Pages.
+**HTML • CSS**
 
-### 🐍 Exercícios Python
+---
 
-Repositório com exercícios de lógica de programação e fundamentos de Python.
+### Tech Store
 
-### 💻 Exercícios C
+Projeto de loja desenvolvido para praticar **desenvolvimento web e criação de interfaces**, utilizando Tailwind CSS para a estilização.
 
-Repositório dedicado aos meus estudos e exercícios de programação em C.
+**HTML • CSS • JavaScript • Tailwind CSS**
 
-## 📚 Atualmente estudando
+---
 
-* Lógica de programação
-* Python
-* C
-* HTML e CSS
-* JavaScript
-* React
-* Git e GitHub
+### Sistema de Cadastro de Carros
 
-## 🎯 Objetivo
+Projeto desenvolvido em Python para praticar **lógica de programação, funções, estruturas condicionais, repetição e gerenciamento de dados**.
 
-Continuar evoluindo como desenvolvedor, transformando o conhecimento adquirido nos estudos em projetos cada vez mais completos.
+**Python**
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IarleySales&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IarleySales&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Obrigado pela visita!**
+### `Building my path through code.`
 
 </div>
