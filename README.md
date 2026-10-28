@@ -28,7 +28,7 @@ Gosto de aprender na prática, criando projetos e explorando diferentes tecnolog
 
 |                Projeto               |               Tecnologias              |
 | :----------------------------------: | :------------------------------------: |
-|         🚗 **Top Dream Car**         |               HTML · CSS               |
+|        ⚽**Simulador Futebol**         |               Python                 |
 |           🛒 **Tech Store**          | HTML · CSS · JavaScript · Tailwind CSS |
 | 🐍 **Sistema de Cadastro de Carros** |                 Python                 |
 
